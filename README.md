@@ -8,7 +8,7 @@ A Flutter package that provides a ios-style dialog with a blurred background.
 ## Usage
 
 ```dart
-import 'package:cupertino_blur_dialog/cupertino_blur_dialog.dart';
+import 'package:ios_dialog/ios_dialog.dart';
 
 showCupertinoBlurDialog(
   context: context,

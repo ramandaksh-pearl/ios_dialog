@@ -1,7 +1,7 @@
 name: ios_dialog
 description: "A Flutter package that provides a ios-styled dialog with a blurred background."
 version: 0.0.1
-homepage:
+homepage: https://github.com/ramandaksh-pearl/ios_dialog
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
